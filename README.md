@@ -1,7 +1,5 @@
 # Code Review: ProcessIncomingCallJob
 
----
-
 ### КРИТИЧЕСКИЕ
 
 #### 1. Race condition при выборе оператора (нет блокировки)
